@@ -1,0 +1,7 @@
+
+CREATE TABLE PARTICIPANT (
+name VARCHAR( 100 ) ,
+term VARCHAR( 100 )
+);
+
+
